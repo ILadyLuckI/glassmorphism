@@ -10,4 +10,4 @@ Aprender sobre o efeito de glasmorphismo
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://uxmisfit.com/wp-content/uploads/2021/01/glass_card_09.jpg#vitrinedev)
